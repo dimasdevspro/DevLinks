@@ -1,5 +1,10 @@
 <h3 align="center">DevLinks</h3>
 <p align="center"><img src="https://img.shields.io/badge/<HTML>-<green>"> <img src="https://img.shields.io/badge/<CSS>-<green>"><img src="https://img.shields.io/badge/<Javascript>-<green>"></p>
+
+<p align="center">
+<img alt="Capa com Foto, nome da redesocial, links das principais redes sociais, ícones das redes sociais e assinatura do desenvolvedor da página" src="./assets/Capa_readme.png" >
+</p>
+
 ### Indice
 
 * [Sobre](#sobre)
@@ -14,7 +19,7 @@
 ### Sobre 
 [↩](#indice)
 
-<p>Site com os principais links das redes profissionais e/ou sociais.</p>
+<p>Programa agregador com os principais links das redes profissionais e/ou sociais, proposto do curso Discover da escola Rocketseat.</p>
 
 ### Status do Projeto 
 [↩](#indice)
@@ -36,6 +41,9 @@ Para começar, você vai precisar instalar em sua máquina as seguintes ferramen
 [↩](#indice)
 
 ```bash
+# Acesse o layout do projeto no Figma
+$ https://www.figma.com/community/file/1187422022288947321
+
 # Baixe o editor equivalente para a sua plataforma
 $ https://code.visualstudio.com/
 
@@ -58,6 +66,11 @@ $ code .
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
+- HTML;
+- CSS;
+- Javascript;
+- Git e Github;
+- Figma;
 - [VSCode](https://code.visualstudio.com/);
 - [Git](https://git-scm.com).
 
